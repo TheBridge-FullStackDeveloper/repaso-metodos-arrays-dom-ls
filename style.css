@@ -1,0 +1,15 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Pixelify Sans", sans-serif;
+}
+.employee {
+  background-color: #008080;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+  -webkit-box-shadow: 10px 10px 7px 1px rgba(13,71,71,1);
+  -moz-box-shadow: 10px 10px 7px 1px rgba(13,71,71,1);
+  box-shadow: 10px 10px 7px 1px rgba(13,71,71,1);
+  
+}
